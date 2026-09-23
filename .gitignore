@@ -1,0 +1,14 @@
+
+whisper-large-v3
+*.wav
+*.m4a
+lib/
+bin/
+
+
+
+
+
+
+
+
