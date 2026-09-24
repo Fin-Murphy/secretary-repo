@@ -5,7 +5,7 @@ whisper-large-v3
 lib/
 bin/
 *.cfg
-
+__pycache__/
 
 
 
